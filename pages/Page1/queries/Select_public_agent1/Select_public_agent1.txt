@@ -7,4 +7,4 @@ WHERE
 LIMIT
   {{Table1.pageSize}}
 OFFSET
-  {{Table1.pageOffset}}
+  {{Table1.pageOffset}};  
